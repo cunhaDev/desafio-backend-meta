@@ -47,6 +47,25 @@
   </li>
 </ul>
 
+<h3>Exemplo de URL para acesso aos endpoint como a ordem acima:</h3>
+<ul>
+  <li>
+    <h4>(POST) /api/cadastrar</h4>
+  </li>
+   <li>
+    <h4>(GET) /api/listar</h4>
+  </li>
+   <li>
+    <h4>(GET) /api/1</h4>
+  </li>
+     <li>
+    <h4>(DELETE) /api/1</h4>
+  </li>
+   <li>
+    <h4>(PUT) /api/1</h4>
+  </li>
+</ul>
+
 <h3>Observações<h3>
   <h4>Este projeto é fruto dos estudso do Spring Boot, como eu fiz<br>
    questão de esclarecer nas entrevista, é uma stack a qual eu não domino<br>
