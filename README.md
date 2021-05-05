@@ -17,7 +17,7 @@
     <h4>Banco de dados Relacional MySql</h4>
   </li>
    <li>
-    <h4>DDD - Design orientado a domínio(Repository, Sevice e Controller)</h4>
+    <h4>DDD - Design orientado a domínio(Repository, Service e Controller)</h4>
   </li>
   <li>
     <h4>STS IDE</h4>
