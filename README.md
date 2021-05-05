@@ -1,6 +1,6 @@
 <h1>Desafio Back-End da Meta</h1>
 
-<h3>Este é um projeto desenvolvido Java e Spring Boot 2.4</h3>
+<h3>Este é um projeto desenvolvido em Java com Spring Boot 2.4</h3>
 
 <h3>Recursos:</h3>
 <ul>
